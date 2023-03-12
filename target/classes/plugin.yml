@@ -1,0 +1,4 @@
+name: "NekomuraHammerPlugin"
+version: "0.0.1-SNAPSHOT"
+main: "com.github.strawberrycat_ni.nekomurahammerplugin.NekomuraHammerPlugin"
+api-version: "1.18"

@@ -1,0 +1,4 @@
+name: "NekomuraHammerPlugin"
+version: "${project.version}"
+main: "com.github.strawberrycat_ni.nekomurahammerplugin.NekomuraHammerPlugin"
+api-version: "1.18"
