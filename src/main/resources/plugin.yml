@@ -1,4 +1,8 @@
 name: "NekomuraHammerPlugin"
 version: "${project.version}"
+author: 猫村いちご
 main: "com.github.strawberrycat_ni.nekomurahammerplugin.NekomuraHammerPlugin"
 api-version: "1.18"
+commands:
+  cbreak:
+    description: Cube-BreakCommand.

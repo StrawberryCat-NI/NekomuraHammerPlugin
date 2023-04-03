@@ -1,9 +1,17 @@
-Setting:
-#BlockBlacklist:
-#-'test'
- Enable-World:'Main'
+#######################
+#auther : 猫村いちご  #
+#version : 1.0.0      #
+#######################
+Worlds:
+  - world
 Tool-Settings:
- Name:'Hammer'
- Lore:'It is Hammer!'
- Range:1
-#複数追加させるときどうすればいい
+  hammer01:
+    Lore: 'It is Hammer!'
+    Range: 1
+    BlockWhitelist:
+      - STONE
+  hammer02:
+    Lore: 'It is Hammer too!'
+    Range: 2
+    BlockWhitelist:
+      - DIRT

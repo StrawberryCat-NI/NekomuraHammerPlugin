@@ -1,9 +1,0 @@
-Setting:
-#BlockBlacklist:
-#-'test'
- Enable-World:'Main'
-Tool-Settings:
- Name:'Hammer'
- Lore:'It is Hammer!'
- Range:1
-#複数追加させるときどうすればいい

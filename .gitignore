@@ -1,2 +1,14 @@
 
 NekomuraHammerPlugin/
+/target/NekomuraHammerPlugin-1.0.0.jar
+/target/classes/com/github/strawberrycat_ni/nekomurahammerplugin/NekomuraHammerPlugin.class
+/target/classes/META-INF/maven/com.github.StrawberryCat_NI/NekomuraHammerPlugin/pom.properties
+/target/classes/META-INF/maven/com.github.StrawberryCat_NI/NekomuraHammerPlugin/pom.xml
+/target/classes/META-INF/MANIFEST.MF
+/target/classes/plugin.yml
+/target/classes/config.yml
+/target/maven-archiver/pom.properties
+/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst
+/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst
+/.classpath
+/.project
